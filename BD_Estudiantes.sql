@@ -1,0 +1,13 @@
+CREATE DATABASE Estudiantes; 
+GO
+USE Estudiantes;
+
+CREATE TABLE Estudiantes_Tabla ( 
+	id INT PRIMARY KEY IDENTITY(1,1),
+	cc VARCHAR(50) NOT NULL UNIQUE,
+	nombre VARCHAR(100) NOT NULL,
+	apellido VARCHAR(100) NOT NULL,
+	correo VARCHAR(100) NOT NULL UNIQUE,
+	telefono VARCHAR(50) NOT NULL UNIQUE
+
+);
