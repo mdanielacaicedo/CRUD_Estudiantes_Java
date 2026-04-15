@@ -16,12 +16,12 @@ Eliminar registros.
 
 # Base de datos
 La base de datos contiene una tabla llamada Estudiantes_Tabla con los siguientes campos:
-id
-cc
-nombre
-apellido
-correo
-telefono
+id,
+cc,
+nombre,
+apellido,
+correo,
+telefono,
 
 # Ejecución
 Para ejecutar el proyecto:
