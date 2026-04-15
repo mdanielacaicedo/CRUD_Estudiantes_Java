@@ -7,12 +7,12 @@ La aplicación permite gestionar registros de estudiantes mediante una interfaz 
 # Estructura del proyecto
 El código fuente se encuentra en la carpeta src/crud_estudiantes
 El script de la base de datos está en el archivo BD_Estudiantes.sql
-Se incluye el archivo .jar para ejecutar la aplicación directamente
+Se incluye el archivo .jar para ejecutar la aplicación directamente.
 # Funcionalidades
-Registrar estudiantes
-Consultar datos almacenados
-Modificar información existente
-Eliminar registros
+Registrar estudiantes,
+Consultar datos almacenados,
+Modificar información existente,
+Eliminar registros.
 
 # Base de datos
 La base de datos contiene una tabla llamada Estudiantes_Tabla con los siguientes campos:
